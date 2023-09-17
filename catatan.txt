@@ -1,5 +1,7 @@
 memulai belajar GIT,
 ...
 
+belajar commit
+
 Kendal,
 17 September 2023
