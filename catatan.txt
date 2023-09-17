@@ -1,4 +1,5 @@
 memulai belajar GIT,
+...
 
 Kendal,
 17 September 2023
